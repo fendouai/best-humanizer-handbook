@@ -1,6 +1,6 @@
 ## **Chapter 4 \| Best ****AI Humanize****r**** ****tools by use case segment**
 
-![Image](../../assets/images/image-18-c8e51fa130.png)
+![Image](../assets/images/image-18-c8e51fa130.png)
 
 ### 4\.1 Best Free SEO Humanizer Text Tools
 

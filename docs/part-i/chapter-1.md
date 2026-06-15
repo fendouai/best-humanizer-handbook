@@ -4,7 +4,7 @@
 
 Humanizing text isn’t just about making it sound like a person wrote it\. It’s more about adding real signs of thought — like pauses, opinions, emotional changes, and those little quirks that show someone has genuinely thought things through\. It’s not just about sounding fluent; it’s about having a good reason for each sentence, like a real person would\. This shift from ‘sounding human’ to ‘expressing genuine thought’ goes from just mimicking grammar to really capturing how we think\. The first approach might trick some detectors, but the second one makes your writing worthy of careful reading by another person\.
 
-![Image](../../assets/images/image-03-7aa5b4858e.png)
+![Image](../assets/images/image-03-7aa5b4858e.png)
 
 ### 1\.2 Why AI\-generated text often feels mechanical  
 

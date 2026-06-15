@@ -6,7 +6,7 @@ By 2026, the market for AI text humanization is expected to explode from a niche
 
 A survey by Scribbr of the top 100 universities in the US revealed that 78% don’t have clear or have relaxed rules around AI writing tools\. Still, raw outputs from ChatGPT are plagued by significant issues: imprecise language, awkward style, logical missteps, repetition, strange errors, grammar mistakes, and a lack of originality\. 
 
-![Image](../assets/images/image-02-7dd9bed255.png)
+![Image](assets/images/image-02-7dd9bed255.png)
 
 So, humanizing AI text isn’t just a nice\-to\-have anymore; it’s crucial for students, researchers, and creators to avoid detection, gain credibility, and maintain their unique voice while leveraging the speed of AI\. By 2026, getting good at this will be essential for boosting content productivity\.
 

@@ -1,6 +1,6 @@
 # Q\&A
 
-![Image](../assets/images/image-21-8c8844b358.png)
+![Image](assets/images/image-21-8c8844b358.png)
 
 ## **A\. Basic Concepts**
 

@@ -1,0 +1,36 @@
+site_name: Best AI Humanizer Handbook
+site_description: A practical guide to making AI-assisted writing clearer, more credible, and more human.
+site_url: !ENV READTHEDOCS_CANONICAL_URL
+repo_url: https://github.com/fendouai/best-humanizer-handbook
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - "Part I: Understanding AI Humanizer Text":
+      - Overview: part-i/README.md
+      - "Chapter 1 | What Is AI Humanized Text?": part-i/chapter-1.md
+      - "Chapter 2 | Common Problems of AI Text and Human First Aid": part-i/chapter-2.md
+  - "Part II: Best AI Humanizer Practices Guide":
+      - Overview: part-ii/README.md
+      - "Chapter 3 | What AI Humanizer Products Are Free?": part-ii/chapter-3.md
+  - "Part III: AI Humanizer Practical Examples":
+      - Overview: part-iii/README.md
+      - "Chapter 4 | Best AI Humanizer Tools by Use Case Segment": part-iii/chapter-4.md
+  - "Part IV: AI Humanizer Skill Best Practice Guide":
+      - Overview: part-iv/README.md
+      - "Chapter 5 | What AI Humanizer Skills Are Available?": part-iv/chapter-5.md
+  - "Q&A": qa.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables

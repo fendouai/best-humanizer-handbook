@@ -32,7 +32,7 @@ All you need to do is** copy and paste **the instructions to use it\.
 
 ### 5\.2  AI Humanizer Skill classification
 
-![Image](../../assets/images/image-20-4987547658.png)
+![Image](../assets/images/image-20-4987547658.png)
 
 Based on the usage scenarios, we classify humanized tools as follows:
 

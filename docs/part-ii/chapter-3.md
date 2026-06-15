@@ -4,13 +4,13 @@
 
 This manual categorizes existing products into six major types based on users’ needs in different usage scenarios\.
 
-![Image](../../assets/images/image-05-e62bc001f4.png)
+![Image](../assets/images/image-05-e62bc001f4.png)
 
 ### **3\.2 Top 10 Best ****AI ****Humanizer Products**
 
 If you are not satisfied with the product you are currently using, feel free to try the ten most cost\-effective products we have identified through comprehensive research\. **The rankings are in no particular order\.** You can make your choice based on your own writing needs\.
 
-![Image](../../assets/images/image-06-09316fddb5.png)
+![Image](../assets/images/image-06-09316fddb5.png)
 
 #### 1、Lynote AI Humanizer（[https://lynote\.ai/ai\-humanizer](https://lynote.ai/ai-humanizer%EF%BC%89)）
 
@@ -32,7 +32,7 @@ If you are not satisfied with the product you are currently using, feel free to 
 
     3. Click the “Humanize” button → get the rewritten result in seconds  
 
-![Image](../../assets/images/image-07-14768edb56.png)
+![Image](../assets/images/image-07-14768edb56.png)
 
 - **Version \& pricing**  
 
@@ -88,7 +88,7 @@ If you are not satisfied with the product you are currently using, feel free to 
 
     3. Get a humanized version in seconds; you can further fine‑tune by selecting alternative phrases on the right side  
 
-![Image](../../assets/images/image-08-be2197a9cf.png)
+![Image](../assets/images/image-08-be2197a9cf.png)
 
 - **Pricing \& plans**  
 
@@ -138,7 +138,7 @@ If you are not satisfied with the product you are currently using, feel free to 
 
 Also supports file upload \(via the "Upload file" button\) and offers a "Try sample text" feature\.
 
-![Image](../../assets/images/image-09-7a0556b94e.png)
+![Image](../assets/images/image-09-7a0556b94e.png)
 
 **Pricing \& Plans**
 
@@ -170,7 +170,7 @@ Also supports file upload \(via the "Upload file" button\) and offers a "Try sam
 
     3. Get a rewritten version capable of “bypassing AI detectors” in seconds  
 
-![Image](../../assets/images/image-10-a802cefff9.png)
+![Image](../assets/images/image-10-a802cefff9.png)
 
 - **Pricing \& plans**  
 
@@ -182,7 +182,7 @@ Also supports file upload \(via the "Upload file" button\) and offers a "Try sam
 
     - Paid subscribers \(Surfer Platform\): max 50,000 words per request \+ unlimited AI detection  
 
-![Image](../../assets/images/image-11-b37ab2c24d.png)
+![Image](../assets/images/image-11-b37ab2c24d.png)
 
 - **Official key selling points**  
 
@@ -222,7 +222,7 @@ Also supports file upload \(via the "Upload file" button\) and offers a "Try sam
 
     - **Rewrite Depth:** from minimal \(preserves original wording\) to maximize \(heavy rewriting\)  
 
-![Image](../../assets/images/image-12-3f89c0def6.png)
+![Image](../assets/images/image-12-3f89c0def6.png)
 
 - **Pricing \& plans**  
 
@@ -280,7 +280,7 @@ Also supports file upload \(via the "Upload file" button\) and offers a "Try sam
 
     3. Get a rewritten version that bypasses detectors  
 
-![Image](../../assets/images/image-13-8cf49b2a0a.png)
+![Image](../assets/images/image-13-8cf49b2a0a.png)
 
 - **Pricing \& plans**  
 
@@ -320,7 +320,7 @@ Also supports file upload \(via the "Upload file" button\) and offers a "Try sam
 
     3. Click “Write Human” → Get a version that “reads like a human wrote it” in seconds  
 
-![Image](../../assets/images/image-14-0eccb89e69.png)
+![Image](../assets/images/image-14-0eccb89e69.png)
 
 - **Pricing \& plans**  
 
@@ -354,7 +354,7 @@ Also supports file upload \(via the "Upload file" button\) and offers a "Try sam
 
     3. Get one rewritten variant in seconds \(“1 variant”\)  
 
-![Image](../../assets/images/image-15-d36920942c.png)
+![Image](../assets/images/image-15-d36920942c.png)
 
 - **Official key selling points**  
 
@@ -390,7 +390,7 @@ As of 2026, it has **23\+ million users** and has been featured in top‑tier me
 
     4. Click “Humanize AI” → Get the rewritten result in seconds  
 
-![Image](../../assets/images/image-16-60858fe0b2.png)
+![Image](../assets/images/image-16-60858fe0b2.png)
 
 - **Money Back Guarantee \(exclusive selling point\):** If any AI detector flags the result as non‑human → full refund  
 
@@ -436,7 +436,7 @@ As of 2026, it has **23\+ million users** and has been featured in top‑tier me
 
     3. Get a “human‑touch” version in seconds  
 
-![Image](../../assets/images/image-17-a55eb0bf03.png)
+![Image](../assets/images/image-17-a55eb0bf03.png)
 
 - **Pricing \& plans**  
 
