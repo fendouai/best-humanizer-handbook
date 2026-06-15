@@ -8,6 +8,9 @@ AI humanization is not just about replacing words, smoothing sentences, or chasi
 
 This handbook helps students, researchers, creators, marketers, and independent writers understand what "humanized text" actually means, choose suitable AI humanizer products or local skills, and build a practical rewriting workflow from draft cleanup to publication.
 
+**Author:** Vivian Wen  
+**Sponsor:** [Lynote.ai](https://lynote.ai/ai-humanizer)
+
 ## What You Will Learn
 
 - How to recognize the common patterns that make AI-generated writing feel mechanical.
