@@ -1,6 +1,6 @@
 site_name: Best AI Humanizer Handbook
 site_description: A practical guide to making AI-assisted writing clearer, more credible, and more human.
-site_url: !ENV READTHEDOCS_CANONICAL_URL
+site_url: https://lynote.ai/ai-humanizer-handbook/
 repo_url: https://github.com/fendouai/best-humanizer-handbook
 
 theme:
